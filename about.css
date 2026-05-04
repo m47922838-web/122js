@@ -1,0 +1,10 @@
+/* Дополнительно для страницы About */
+.about-section {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    line-height: 1.6;
+    text-align: center;
+}
+.about-section h1 { margin-bottom: 20px; }
+.about-section p { margin-bottom: 20px; font-size: 18px; }
